@@ -8,3 +8,11 @@
   border-radius: 5px;
   background-color: hsl(89, 77%, 53%);
 }
+
+.list-items{
+  font-size: 2em;
+  list-style: none;
+  color: hsl(0, 0%, 25%);
+  text-align: center;
+  margin: 0;
+}
